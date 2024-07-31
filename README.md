@@ -22,11 +22,11 @@ Este projeto é inspirado no meu gato e utiliza a Microsoft Copilot para gerar a
 ## 🚀 Resultados
 Aqui estão as imagens geradas pelo projeto:
 
-![Gato Bardo 1](/Imagem/Gato_bardo (1).jpg)
-![Gato Bardo 2](/Imagem/Gato_bardo (2).jpg)
-![Gato Bardo 3](/Imagem/Gato_bardo (3).jpg)
-![Gato Bardo 4](/Imagem/Gato_bardo (4).jpg)
-![Gato Bardo 5](/Imagem/Gato_bardo (5).jpg)
+![Gato Bardo 1](Imagem/Gato_bardo (1).jpg) 
+![Gato Bardo 2](Imagem/Gato_bardo (2).jpg)
+![Gato Bardo 3](Imagem/Gato_bardo (3).jpg)
+![Gato Bardo 4](Imagem/Gato_bardo (4).jpg)
+![Gato Bardo 5](Imagem/Gato_bardo (5).jpg)
 
 
 ## 💭 Reflexão

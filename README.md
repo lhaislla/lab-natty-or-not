@@ -1,14 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
+# Desafio  _"Natty or Not"_ 🎯 usando IAs Generativas
 
 1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 1. **Potfólio de Projetos**:
@@ -17,35 +7,31 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Gato Bardo
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é inspirado no meu gato e utiliza a Microsoft Copilot para gerar a imagem de um gato em um cenário pós-apocalíptico, com uma guitarra Stratocaster vermelha.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Chat GPT:** Para aprimorar o prompt.
+- **Microsoft Copilot:** Para gerar a imagem.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+**Prompt:** "Crie um gato preto estilo RPG que é um bardo e o instrumento dele é uma guitarra Stratocaster vermelha com detalhes brancos. O estilo da arte deve ser pós-apocalíptico, onde ele é um gato sobrevivente."
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Aqui estão as imagens geradas pelo projeto:
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+![Gato Bardo 1](/Imagem/Gato_bardo (1).jpg)
+![Gato Bardo 2](/Imagem/Gato_bardo (2).jpg)
+![Gato Bardo 3](/Imagem/Gato_bardo (3).jpg)
+![Gato Bardo 4](/Imagem/Gato_bardo (4).jpg)
+![Gato Bardo 5](/Imagem/Gato_bardo (5).jpg)
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 💭 Reflexão
+Criar algo com inteligência artificial foi uma experiência desafiadora e enriquecedora. O processo envolveu várias iterações do prompt até chegar ao resultado desejado. Um dos principais desafios foi ajustar o prompt de maneira precisa para que o Microsoft Copilot pudesse interpretar corretamente a visão do projeto.
 
-## Links Interessantes
+A IA proporcionou uma ferramenta poderosa para a geração de imagens, permitindo a criação de cenas complexas e detalhadas que seriam difíceis de produzir manualmente. No entanto, também ficou claro que a IA tem limitações e pode interpretar as instruções de maneiras inesperadas. Isso exige uma abordagem iterativa e paciente, ajustando o prompt e refinando as instruções para alcançar o resultado ideal.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+No final, o projeto não só resultou em imagens visualmente interessantes, mas também forneceu uma visão sobre as capacidades e limitações das tecnologias de IA atuais. Essa experiência reforçou a importância de combinar a criatividade humana com a capacidade de processamento da IA para obter resultados verdadeiramente únicos e inovadores.
